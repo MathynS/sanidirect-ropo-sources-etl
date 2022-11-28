@@ -1,0 +1,6 @@
+[submodule "modules/facebook-ads-etl-tf-gcp"]
+	path = modules/facebook-ads-etl-tf-gcp
+	url = https://github.com/techonomydev/facebook-ads-etl-tf-gcp.git
+[submodule "modules/pinterest-ads-etl-tf-gcp"]
+	path = modules/pinterest-ads-etl-tf-gcp
+	url = https://github.com/techonomydev/pinterest-ads-etl-tf-gcp.git
